@@ -35,7 +35,7 @@ Future Improvements: Add a web dashboard. Add text to speech so the Pi calls out
 
 Honor Statement: This is our own original work. All outside help is listed below. Signed: Jharna Patel, Lucy Hartley.
 
-AI Disclosure: Claude was used to help debug errors, rewrite code, and help write this document.
+AI Disclosure: Claude was used to help debug errors, rewrite code.
 
 References: Anthropic docs, SpeechRecognition library docs, Raspberry Pi documentation, Gmail App Passwords guide.
 
